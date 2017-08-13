@@ -16,7 +16,7 @@
 
 package org.cyanogenmod.hardware;
 
-import org.slim.utils.FileUtils;
+import slim.utils.FileUtils;
 
 /**
  * Adaptive backlight support (this refers to technologies like NVIDIA SmartDimmer,

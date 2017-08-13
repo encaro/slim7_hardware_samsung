@@ -18,7 +18,7 @@ package org.cyanogenmod.hardware;
 
 import android.os.SystemProperties;
 
-import org.slim.utils.FileUtils;
+import slim.utils.FileUtils;
 
 /**
  * Sunlight Readability Enhancement support, aka Facemelt Mode.

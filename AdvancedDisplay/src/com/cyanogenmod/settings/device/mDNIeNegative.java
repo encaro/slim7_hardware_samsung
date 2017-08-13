@@ -25,7 +25,7 @@ import android.support.v7.preference.Preference.OnPreferenceChangeListener;
 import android.support.v7.preference.PreferenceManager;
 import android.util.AttributeSet;
 
-import org.slim.utils.FileUtils;
+import slim.utils.FileUtils;
 
 public class mDNIeNegative extends ListPreference implements OnPreferenceChangeListener {
 

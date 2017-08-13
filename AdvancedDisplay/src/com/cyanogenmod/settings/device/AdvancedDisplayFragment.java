@@ -22,7 +22,7 @@ import android.support.v14.preference.PreferenceFragment;
 
 import com.cyanogenmod.settings.device.R;
 
-import org.slim.utils.FileUtils;
+import slim.utils.FileUtils;
 
 public class AdvancedDisplayFragment extends PreferenceFragment {
     private mDNIeScenario mmDNIeScenario;
